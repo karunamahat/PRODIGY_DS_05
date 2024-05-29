@@ -14,3 +14,8 @@ Data Cleaning and Preparation: The dataset was cleaned to remove any irrelevant 
 Data Analysis: The cleaned data was analyzed to identify patterns related to road conditions, weather, and time of day. This analysis was done using Python libraries such as Pandas and NumPy in Jupyter Notebook.
 
 Visualization in Power BI: The cleaned and analyzed data was imported into Power BI to create visualizations. Visualizations included maps showing accident hotspots, charts showing the distribution of accidents by road and weather conditions, and graphs showing the time of day when accidents are most likely to occur.
+
+**Dashboard:**
+Since the output file is too large for the repository, here is the dashboard created in PowerBI.
+<img width="746" alt="image" src="https://github.com/karunamahat/PRODIGY_DS_05/assets/155524862/57a5d52f-6a3a-41ab-bba9-fac077bf53e1">
+
